@@ -12,7 +12,7 @@
 - Desain ringan dan optimal untuk perangkat dengan spesifikasi rendah.
 - Kompatibel dengan Android 10 ke atas.
 
-## Catatan Rilis - Versi 5.0.5 · 5 Mei 2025
+## Catatan Rilis 
 
 - Rilis perdana aplikasi.
 - Implementasi fitur notifikasi status dan manajemen daftar aplikasi.
