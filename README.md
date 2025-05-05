@@ -1,6 +1,6 @@
-# Background App Slayer (Aplikasi)
+# AppSlayer
 
-**Background App Slayer** adalah aplikasi ringan berbasis Android yang dirancang untuk memantau dan mengelola proses aplikasi latar belakang melalui skrip root. Aplikasi ini menampilkan status mode serta hasil eksekusi secara langsung di status bar, dan memungkinkan pengaturan daftar aplikasi melalui editor bawaan.
+**AppSlayer** adalah aplikasi Android ringan yang dibuat untuk menyempurnakan fungsi dari modul *Background App Slayer*. Aplikasi ini memantau dan mengelola proses latar belakang melalui skrip root, menampilkan status mode dan hasil eksekusi langsung di status bar, serta menyediakan pengaturan daftar list langsung di dalam aplikasi tanpa bantuan aplikasi tambahan.
 
 ## Fitur Utama
 
