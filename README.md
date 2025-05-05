@@ -1,6 +1,6 @@
 # AppSlayer
 
-**AppSlayer** adalah aplikasi Android ringan yang dibuat untuk menyempurnakan fungsi dari modul *Background App Slayer*. Aplikasi ini memantau dan mengelola proses latar belakang melalui skrip root, menampilkan status mode dan hasil eksekusi langsung di status bar, serta menyediakan pengaturan daftar list langsung di dalam aplikasi tanpa bantuan aplikasi tambahan.
+**AppSlayer** adalah aplikasi Android ringan yang dibuat untuk menyempurnakan fungsi dari modul *[SmartAppClose](http://github.com/UNKNUW/SmartAppClose)*. Aplikasi ini memantau dan mengelola proses latar belakang melalui skrip root, menampilkan status mode dan hasil eksekusi langsung di status bar, serta menyediakan pengaturan daftar list langsung di dalam aplikasi tanpa bantuan aplikasi tambahan.
 
 ## Fitur Utama
 
