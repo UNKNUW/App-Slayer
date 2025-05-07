@@ -1,0 +1,78 @@
+<?xml version="5.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:padding="24dp"
+	android:background="#000000">
+
+	<Button
+		android:id="@+id/btnToggleService"
+		android:layout_width="match_parent"
+		android:layout_height="48dp"
+		android:layout_margin="10dp"
+		android:text="NYALAKAN NOTIFIKASI"
+		android:textColor="#FFFAFA"
+		android:background="#0024DC"/>
+
+	<Button
+		android:id="@+id/btnMode"
+		android:layout_width="match_parent"
+		android:layout_height="48dp"
+		android:layout_margin="10dp"
+		android:text="MODE: NORMAL"
+		android:textColor="#FFFFFF"
+		android:background="#1AB900"/>
+
+	<Button
+		android:id="@+id/btnGamelist"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Edit Gamelist"
+		android:layout_marginTop="24dp"
+		android:background="#333333"
+		android:textColor="#FFFFFF"/>
+
+	<Button
+		android:id="@+id/btnWhitelist"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Edit Whitelist"
+		android:layout_marginTop="8dp"
+		android:background="#333333"
+		android:textColor="#FFFFFF"/>
+
+	<Button
+		android:id="@+id/btnExtreme"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Edit Extreme"
+		android:layout_marginTop="8dp"
+		android:background="#333333"
+		android:textColor="#FFFFFF"/>
+
+	<EditText
+		android:id="@+id/editText"
+		android:layout_width="match_parent"
+		android:layout_height="200dp"
+		android:background="#1A1A1A"
+		android:textColor="#FFFFFF"
+		android:hint="Edit file di sini..."
+		android:visibility="gone"
+		android:layout_marginTop="16dp"
+		android:gravity="top"
+		android:padding="12dp"/>
+
+	<Button
+		android:id="@+id/btnSaveFile"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="SIMPAN"
+		android:layout_marginTop="8dp"
+		android:background="#EEEEEE"
+		android:textColor="#000000"
+		android:visibility="gone"/>
+
+</LinearLayout>
+
